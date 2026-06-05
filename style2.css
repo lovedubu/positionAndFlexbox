@@ -1,0 +1,27 @@
+.box{
+    display: flex;
+    flex-direction: column;
+}
+
+.div1 {
+    width: 130px;
+    height: 130px;
+    background-color: black;
+    color: white;
+}
+
+.div2 {
+    width: 130px;
+    height: 130px;
+    background-color: black;
+    color: white;
+    margin-left: 330px;
+}
+
+.div3 {
+    width: 130px;
+    height: 130px;
+    background-color: black;
+    color: white;
+    margin-left: 660px;
+}

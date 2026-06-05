@@ -1,0 +1,26 @@
+.div1 {
+    width: 130px;
+    height: 130px;
+    background-color: black;
+    color: white;
+}
+
+.div2 {
+    width: 130px;
+    height: 130px;
+    background-color: black;
+    color: white;
+    margin-left: 380px;
+}
+
+.div3 {
+    width: 130px;
+    height: 130px;
+    background-color: black;
+    color: white;
+}
+
+.box {
+    display: flex;
+    justify-content: space-between;
+}
